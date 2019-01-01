@@ -1,0 +1,6 @@
+[submodule "strirus_cad_design"]
+	path = strirus_cad_design
+	url = https://github.com/Lupasic/strirus_cad_design.git
+[submodule "strirus_gazebo_simulation"]
+	path = strirus_gazebo_simulation
+	url = https://github.com/Lupasic/strirus_gazebo_simulation.git

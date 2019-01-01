@@ -4,13 +4,16 @@ We introduce a modification for legged locomotion and methods for biomimetic cen
 
 In contrast to similar robotic platforms proposed prototype can move in any direction without changing orientation. Moreover, proposed design allows robot to operate in either omni-direction or conventional states without changing components.
 
-[StriRus](https://github.com/Lupasic/strirus_full/master/imgs_for_readme/strirus_full_body_omni_iso.png "StiRus in omni-directional state")
+[StriRus](https://github.com/Lupasic/strirus_full/blob/master/imgs_for_readme/strirus_full_body_omni_iso.png "StiRus in omni-directional state")
 
+## Robot hardware
+
+TODO
 
 ## Module descriptions
 - [CAD model](https://github.com/Lupasic/strirus_cad_design) - consists of CAD model, which were made in Siemens NX `.prt` and in `.stl`
 - [Robot Gazebo representation](https://github.com/Lupasic/strirus_cad_design) TODO
-
+- Robot Matlab representation TODO
 
 
 ## Software preliminary requirements

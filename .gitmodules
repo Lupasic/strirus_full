@@ -4,3 +4,6 @@
 [submodule "strirus_gazebo_simulation"]
 	path = strirus_gazebo_simulation
 	url = https://github.com/Lupasic/strirus_gazebo_simulation.git
+[submodule "strirus_gym_mujoco_simulation"]
+	path = strirus_gym_mujoco_simulation
+	url = https://github.com/Lupasic/strirus_gym_mujoco_simulation.git

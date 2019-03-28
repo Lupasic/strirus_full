@@ -12,7 +12,7 @@ TODO
 
 ## Module descriptions
 - [CAD model](https://github.com/Lupasic/strirus_cad_design) - consists of CAD model, which were made in Siemens NX `.prt` and in `.stl`
-- [Robot Gazebo representation](https://github.com/Lupasic/strirus_cad_design) TODO
+- [Robot Gazebo representation](https://github.com/Lupasic/strirus_gazebo_simulation) TODO
 - Robot Matlab representation TODO
 
 
